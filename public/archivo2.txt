@@ -1,0 +1,1 @@
+Hola y bienvenido a este archivo2 txt que se puso fuera de carpeta public para pruebas
